@@ -3,26 +3,9 @@
 Developed a single-page Excel dashboard to analyze Amazon’s sales performance. The dashboard provides a comprehensive view of key metrics across states, months, quarters, and categories, enabling quick insights for decision-making.
 
 ## Dataset Used
-Source: Amazon sales transactional dataset (Excel/CSV).
-Key Columns:
-Date (Year, Month, Quarter)
-State
-Category
-Sales
-Profit
-Quantity
+https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/AMAZON%20DATA-SET%20USED.xlsx
 
-## Process Objectives
-To provide a single-page view of Amazon’s sales and profit trends.
-To track performance across states, months, quarters, and categories.
-To help management identify profitable segments and growth opportunities.
-To present KPI metrics (Sales, Profit, Quantity) in a visually clear format.
-
-
-<img width="928" height="209" alt="image" src="https://github.com/user-attachments/assets/18a666b9-2a02-433a-98af-e7a958c0cbf0" />
-
-
-https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Sales%20DB.jpg      
+https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Data_%20Sales%20Dashboard.xlsx 
 
 # Dashboard
 ![Amazon Sales DB](https://github.com/user-attachments/assets/7e7a644b-a4d9-4991-8e9a-d6737e5d9589)
