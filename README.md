@@ -11,12 +11,12 @@ Developed a single-page Excel dashboard to analyze Amazon’s sales performance.
   
 
 ## KPIs Business Questions 
-Which states are most/least profitable each month?
-How is profit distributed across states each quarter?
-What is the monthly trend in sales & profitability?6
-Which product categories generate maximum revenue & profit?
-How are sales, profit, and quantity growing year over year?
-What are the overall performance numbers at a glance?
+- Which states are most/least profitable each month?
+- How is profit distributed across states each quarter?
+- What is the monthly trend in sales & profitability?6
+- Which product categories generate maximum revenue & profit?
+- How are sales, profit, and quantity growing year over year?
+- What are the overall performance numbers at a glance?
 
 ## Dashboard Image
 
