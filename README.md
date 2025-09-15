@@ -1,4 +1,7 @@
 # Data-Sales-Dashboard(Interactive Dashboard creation using MS Excel)
+Description:
+Developed a single-page Excel dashboard to analyze Amazon’s sales performance. The dashboard provides a comprehensive view of key metrics across states, months, quarters, and categories, enabling quick insights for decision-making.
+
 ## Project Objective
  This dashboard provides a comprehensive overview of Amazon's sales performance across different states, months, quarters, and years. It enables quick analysis of key metrics such as profit, sales, and quantity to support data-driven business decisions and performance tracking — all in one place.
 
