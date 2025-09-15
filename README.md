@@ -14,7 +14,7 @@ Developed a single-page Excel dashboard to analyze Amazon’s sales performance.
 -  <a href="https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Sales%20DB.jpg">Dashboard Image<\a>
 
 
-## KPIs & Business Questions Answered
+## KPIs Business Questions 
 Which states are most/least profitable each month?
 How is profit distributed across states each quarter?
 What is the monthly trend in sales & profitability?
