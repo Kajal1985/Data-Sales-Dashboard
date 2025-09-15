@@ -3,9 +3,10 @@
 Developed a single-page Excel dashboard to analyze Amazon’s sales performance. The dashboard provides a comprehensive view of key metrics across states, months, quarters, and categories, enabling quick insights for decision-making.
 
 ## Dataset Used
-- <a href= "https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/AMAZON%20DATA-SET%20USED.xlsx" > Amazon Dataset <\a>
+- <a href= "https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/AMAZON%20DATA-SET%20USED.xlsx">Amazon Dataset<\a>
 
-- <a href= "https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Data_%20Sales%20Dashboard.xlsx "> Amazon DB<\a>
+- <a href= "https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Data_%20Sales%20Dashboard.xlsx">Amazon DB<\a>
+  
 # Dashboard
 ![Amazon Sales DB](https://github.com/user-attachments/assets/7e7a644b-a4d9-4991-8e9a-d6737e5d9589)
 
