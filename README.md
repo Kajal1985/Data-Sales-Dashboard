@@ -22,20 +22,27 @@ What are the overall performance numbers at a glance?
 
 -  <a href="https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Sales%20DB.jpg">Dashboard Image<\a>
 
-## Process (Steps Followed)
-# Data Preparation
+# Process (Steps Followed)
+## Data Preparation
 Cleaned raw dataset (removed nulls/duplicates).
 Added time-based columns (Month, Quarter, Year).
 Validated consistency of Sales, Profit, and Quantity fields.
-# Data Modeling
+## Data Modeling
 Created relationships between Date, Category, and Sales tables.
 Applied aggregations for state-level and time-period analysis.
-# Dashboard Design
+## Dashboard Design
 Added KPIs (Total Profit, Sales, Quantity).
 
 
-## Dashboard 
+# Dashboard 
 
 -![Amazon Sales DB](https://github.com/user-attachments/assets/6a151529-872d-4d48-9909-dd7c18a8fe45)
 
+- # Final Deliverable
+A single-page Amazon Sales Dashboard with:
+KPIs at the top (quick insights).
+Visuals for trends, categories, and state comparisons.
+Branded with Amazon logo and professional design.
+
+Clear statement of purpose: “To analyze  Amazon’s sales & profit performance across states, categories, and time periods for business decision-making.”
 
