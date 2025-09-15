@@ -34,15 +34,15 @@ Applied aggregations for state-level and time-period analysis.
 Added KPIs (Total Profit, Sales, Quantity).
 
 
-# Dashboard 
+## Dashboard 
 
 -![Amazon Sales DB](https://github.com/user-attachments/assets/6a151529-872d-4d48-9909-dd7c18a8fe45)
 
-- # Final Deliverable
-A single-page Amazon Sales Dashboard with:
-KPIs at the top (quick insights).
-Visuals for trends, categories, and state comparisons.
-Branded with Amazon logo and professional design.
+ ## Final Deliverable
+- A single-page Amazon Sales Dashboard with:
+- KPIs at the top (quick insights).
+- Visuals for trends, categories, and state comparisons.
+- Branded with Amazon logo and professional design.
 
 Clear statement of purpose: “To analyze  Amazon’s sales & profit performance across states, categories, and time periods for business decision-making.”
 
