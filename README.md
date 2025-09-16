@@ -7,7 +7,7 @@ Developed a single-page Excel dashboard to analyze Amazon’s sales performance.
 - <a href="https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/AMAZON%20DATA-SET%20USED.xlsx">Amazon Dataset<\a>
 
 ## Amazon Sales DB
-- <a href="https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Data_%20Sales%20Dashboard.xlsx">View Amazon DB<\a>
+- <a href="https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Data_%20Sales%20Dashboard%20(2).xlsx">View Amazon DB<\a>
   
 
 ## KPIs Business Questions 
