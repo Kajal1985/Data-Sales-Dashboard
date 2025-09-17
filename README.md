@@ -8,7 +8,9 @@ Developed a single-page Excel dashboard to analyze Amazon’s sales performance.
 
 ## Amazon Sales DB
 - <a href="https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon%20Data_%20Sales%20Dashboard%20(2).xlsx">View Amazon DB<\a>
-  
+
+## Amazon Dashboard Case-study Ppt 
+- <a href="https://github.com/Kajal1985/Data-Sales-Dashboard/blob/main/Amazon-Sales%20DB%20Case%20Study%20Ppt.pptx">View DB Case-study Ppt <\a>
 
 ## KPIs Business Questions 
 - Which states are most/least profitable each month?
