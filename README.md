@@ -36,7 +36,7 @@ Added KPIs (Total Profit, Sales, Quantity).
 
 ## Dashboard 
 
--![Amazon Sales DB](https://github.com/user-attachments/assets/6a151529-872d-4d48-9909-dd7c18a8fe45)
+<img width="1898" height="719" alt="AMAZON DB IMAGE" src="https://github.com/user-attachments/assets/c7c2689d-080c-4916-83dc-e067a4b90884" />
 
  ## Final Deliverable
 - A single-page Amazon Sales Dashboard with:
